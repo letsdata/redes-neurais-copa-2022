@@ -1,0 +1,6 @@
+notebook
+face-recognition
+face-recognition-models
+pandas~=1.5.1
+imageio~=2.22.3
+requests~=2.28.1
